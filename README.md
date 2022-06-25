@@ -18,7 +18,10 @@ ALL:{
 3.
 4. do not beg for mod. (dont even try)
 5. no nsfw. (ban)
-
+6. use the right category
+7. have a brain or go to dumb category
+8. do not bring up my past mistakes.
+9. if you made a useless or regrettable post, tell me so i can delete it.
 }
 ]
 
