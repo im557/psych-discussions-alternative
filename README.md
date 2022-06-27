@@ -28,7 +28,8 @@ ALL:{
 Q&A:{
 
 1. do not say a lua post that is impossible to do. (post removal)
-2. do not make questions for other stuff unrelated to fnf psych engine
+(This means that no lua question that is impossible with lua but possible with source)
+3. do not make questions for other stuff unrelated to fnf psych engine
 
 }
 ]
