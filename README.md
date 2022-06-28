@@ -23,13 +23,14 @@ ALL:{
 8. do not bring up my past mistakes. (possible ban)
 9. if you made a useless or regrettable post, tell me so i can delete it.
 10. if you get a ban label, you will be banned idk.
+11. please do not bring up drama
 }
 
 Q&A:{
 
 1. do not say a lua post that is impossible to do. (post removal)
-(This means that no lua question that is impossible with lua but possible with source)
-3. do not make questions for other stuff unrelated to fnf psych engine
+(This means that a lua question that is impossible with lua but possible with source)
+2. do not make questions for other stuff unrelated to fnf psych engine
 
 }
 ]
