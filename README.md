@@ -24,6 +24,7 @@ ALL:{
 9. if you made a useless or regrettable post, tell me so i can delete it.
 10. if you get a ban label, you will be banned idk.
 11. please do not bring up drama
+
 }
 
 Q&A:{
