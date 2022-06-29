@@ -7,6 +7,10 @@ we have
 
 Mod Development
 
+opinions
+
+dumb category
+
 RULES:[
 
 i dont know why this is built like a code
